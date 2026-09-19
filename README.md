@@ -17,7 +17,7 @@ Image Compressor is a privacy-first browser utility for reducing image file size
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-compressor.git
+git clone https://github.com/devilking7x/image-compressor.git
 cd image-compressor
 pnpm install
 pnpm dev
@@ -43,3 +43,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Improveme
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Demo
+
+Try the live app: https://devilking7x.github.io/image-compressor/
