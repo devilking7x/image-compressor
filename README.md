@@ -69,3 +69,8 @@ This is a focused open-source MVP rather than a hosted replacement for a product
 ## License
 
 Released under the [MIT License](LICENSE).
+
+
+## Live demo
+
+Open **[Image Compressor in the browser](https://devilking7x.github.io/image-compressor/)**. The default deployment uses GitHub Pages and does not require a custom domain.
