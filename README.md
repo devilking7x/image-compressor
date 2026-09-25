@@ -66,11 +66,6 @@ The release workflow is intentionally reproducible. Run `pnpm install --frozen-l
 
 This is a focused open-source MVP rather than a hosted replacement for a production system. It does not guarantee business, legal, financial, medical, accessibility, or security compliance by itself. Validate outputs against the context in which you plan to use them.
 
-## License
-
-Released under the [MIT License](LICENSE).
-
-
 ## Live demo
 
 Open **[Image Compressor in the browser](https://devilking7x.github.io/image-compressor/)**. The default deployment uses GitHub Pages and does not require a custom domain.
