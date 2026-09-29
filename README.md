@@ -46,10 +46,6 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Improveme
 
 MIT — see [LICENSE](LICENSE).
 
-## Demo
-
-Try the live app: https://devilking7x.github.io/image-compressor/
-
 ## Who it is for
 
 This project is designed for **people preparing images for the web**. Its narrow first release focuses on helping them compress images in the browser without uploading originals. The interface uses realistic synthetic fixtures so the value is understandable without connecting a production account.
